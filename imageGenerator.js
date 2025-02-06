@@ -2,8 +2,8 @@ const { createCanvas } = require('canvas');
 const fs = require('fs');
 const path = require('path');
 
-const mainColor = '#22b14c';
-const secondaryColor = '#d61412';
+const mainColor = '#1b893c';
+const secondaryColor = '#ff6b6b';
 const width = 600;
 const height = 30;
 const totalImages = 101;
